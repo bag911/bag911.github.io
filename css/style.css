@@ -199,14 +199,14 @@ a:hover {
         transform: none;
         position: unset;
         margin-left: 5vw;
-        width: 100%;
+        width: 100vw;
     }
     .main-block__info-center h1  {
-        font-size: 48px
+        font-size: 36px
     }
 
     .main-block__info-center p  {
-        font-size: 24px
+        font-size: 14px
     }
 
 }
