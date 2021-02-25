@@ -199,6 +199,7 @@ a:hover {
         transform: none;
         position: unset;
         margin-left: 5vw;
+        width: 100%;
     }
     .main-block__info-center h1  {
         font-size: 48px
